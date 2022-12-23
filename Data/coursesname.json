@@ -1,0 +1,31 @@
+[
+    {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "name": "Introduction to Computer Science"
+      
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "name": "Programming Language I - C"
+    },
+    {
+        "id": "0282e0e58a5c404fbd22261f11b2ab6a",
+      "name": "Programming Language II - C++"
+    },
+    {
+        "id": "0282e0e58a5c404fbd22261f11b2cd7f",
+      "name": "Data Structures"
+    },
+    {
+        "id": "0282e0e58a5c404fbd22261f11b5ls9r",
+      "name": "Algorithms"
+    },
+    {
+        "id": "0282e0e58a5c404fbd22261f11b5llo1w",
+      "name": "Data Communications"
+    },
+    {
+        "id": "0282e0e58a5c404fbd22261f11b5llgg4g",
+      "name": "Operating Systems"
+    }
+  ]
